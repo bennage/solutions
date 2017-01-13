@@ -24,7 +24,7 @@
           "**/_includes/**",
           "**/_themes/**"
         ],
-        "src": "bread",
+        "src": "../bread",
         "dest": "bread"
       }
     ],
