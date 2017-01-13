@@ -1,4 +1,3 @@
 # [TDM](index.md)
 ## [Implementation guidance](guide.md)
-## [Other related guidance](index.md)
-### [Subsection](index.md)
+### [Build wep applications](/azure/architecture/app-service?toc=%2fazure%2fsolutions%2ftoc.json)
