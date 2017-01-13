@@ -30,9 +30,15 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/azure/solutions/bread/toc.json",
+      "brand": "azure",
+      "searchScope": ["Azure"]
+    },
     "fileMetadata": {},
-    "template": [],
-    "dest": "azure-solutions"
+    "template": [
+      "docs.html"
+    ],
+    "dest": "azure"
   }
 }
