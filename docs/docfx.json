@@ -13,6 +13,19 @@
           "LICENSE",
           "LICENSE-CODE"
         ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_includes/**",
+          "**/_themes/**"
+        ],
+        "src": "bread",
+        "dest": "bread"
       }
     ],
     "resource": [
@@ -33,7 +46,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/azure/solutions/bread/toc.json",
       "brand": "azure",
-      "searchScope": ["Azure"]
+      "searchScope": [
+        "Azure"
+      ]
     },
     "fileMetadata": {},
     "template": [
