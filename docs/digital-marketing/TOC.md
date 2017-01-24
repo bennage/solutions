@@ -7,4 +7,4 @@
 ### [API Design Guidance](/azure/best-practices-api-design?toc=/azure/solutions/digital-marketing/toc.json)
 ## Taking advantage of Azure strengths
 ### [Design resilent web applications](/azure/guidance/guidance-resiliency-overview?toc=/azure/solutions/digital-marketing/toc.json)
-### [Best Practices for Cloud Applications](azure/best-practices-cdn?toc=/azure/solutions/digital-marketing/toc.json)
+### [Best Practices for Cloud Applications](/azure/best-practices-cdn?toc=/azure/solutions/digital-marketing/toc.json)
