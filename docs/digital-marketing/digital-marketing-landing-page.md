@@ -19,4 +19,8 @@ Next, you'll have to decide what web framework to use. This decision will influe
 
 Once you've created your website, decided how you'll manage the website's lifecycle, and started writing code you will want to make sure your website takes advantage of everything Azure has to offer. Azure provides the tools to make your website resilient, secure, and  automatically scale to meet customer demand. Read about how to accomplish this in the "take advantage of Azure strengths" node in the table of contents to the left.
 
+## Next Steps
+
+We've provided a complete sample digital marketing solution that includes code, deployment files, and application lifecycle management (DevOps) tools. You can either use this solution as it is or modify it to suit your needs. For more information, see *link*.
+
 
