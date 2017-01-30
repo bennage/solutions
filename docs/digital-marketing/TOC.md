@@ -9,4 +9,4 @@
 ## Take advantage of Azure strengths
 ### [Design resilent web applications](/azure/guidance/resiliency?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Design Patterns for Cloud Applications](/azure/design-patterns?toc=/azure/solutions/digital-marketing/toc.json)
-## Integrate Big Data, Analytics, and Machine Learning Into Your Site
+## Integrate Data Analytics and Machine Learning Into Your Site
