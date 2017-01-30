@@ -19,7 +19,7 @@ Next, you'll have to decide what web framework to use. This decision will influe
 
 Once you've created your website, decided how you'll manage the website's lifecycle, and started writing code you will want to make sure your website takes advantage of everything Azure has to offer. Azure provides the tools to make your website resilient, secure, and  automatically scale to meet customer demand. Read about how to accomplish this in the "take advantage of Azure strengths" node in the table of contents to the left.
 
-Once your customers are using your site you will want to leverage the power of big data to analyze your customer's behavior on your site to optimize their experience and predict what features they want. Azure offers a set of powerful big data and machine learning tools that will enable you to do this and much more. Read about how to integrate Azure big data, analytics, and machine learning tools in the "Integrate big data, analytics, and machine learning into your site" node in the table of contents to the left. 
+Once your customers are using your site you will want to leverage the power of big data to analyze your customer's behavior on your site to optimize their experience and predict what features they want. Azure offers a set of powerful big data and machine learning tools that will enable you to do this and much more. Read about how to integrate Azure data analytics and machine learning tools in the "Integrate data analytics and machine learning into your site" node in the table of contents to the left. 
 
 ## Next Steps
 
