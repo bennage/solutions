@@ -10,7 +10,7 @@
 ### [Design resilent web applications](/azure/guidance/resiliency?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Design Patterns for Cloud Applications](/azure/design-patterns?toc=/azure/solutions/digital-marketing/toc.json)
 ## [Introducing the Digital Marketing Sample Implementation]
-### [Digital Marketing Infrastructure - Functional View](solution-architecture-landing-Page.md)
+### [Digital Marketing Infrastructure](solution-architecture-landing-Page.md)
 ## Deploy the Digital Marketing Sample
 ### [Deploy from Visual Studio 2015](ReadMeVS2015.md)
 ### [Deploy from Visual Studio Team Services](ReadMeVsts.md)
