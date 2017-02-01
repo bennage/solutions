@@ -6,7 +6,7 @@ In this lab you will create a two releases. One that can deploy the ARM template
 
 ### Par 1: Configure Azure Active Directory
 
-This assumes you've not already done this as part of the [Deploy from Visual Studio 2015](./ReadMeVS2015.md) getting started process.
+This assumes you've not already done this as part of the [Deploy from Visual Studio 2015](../ReadMeVS2015.md) getting started process.
 
 1. Access the legacy Azure Portal at <http://manage.windowsazure.com> to configure Azure Active Directory (Azure AD) for your application.
 
