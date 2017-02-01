@@ -1,4 +1,4 @@
-# Solutions: Digital Marketing
+# [Solutions: Digital Marketing](digital-marketing-landing-page.md)
 ## Host your Digital Marketing Website
 ### [Web application architectures for Azure App Service](/azure/architecture/app-service/basic-web-app?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Architectures for running Linux VM workloads in Azure](/azure/architecture/virtual-machines-linux/index?toc=/azure/solutions/digital-marketing/toc.json)
@@ -9,7 +9,7 @@
 ## Take advantage of Azure strengths
 ### [Design resilent web applications](/azure/guidance/resiliency?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Design Patterns for Cloud Applications](/azure/design-patterns?toc=/azure/solutions/digital-marketing/toc.json)
-## [Introducing the Digital Marketing Sample Implementation]
+## Introducing the Digital Marketing Sample Implementation
 ### [Digital Marketing Infrastructure](solution-architecture-landing-Page.md)
 ## Deploy the Digital Marketing Sample
 ### [Deploy from Visual Studio 2015](ReadMeVS2015.md)
