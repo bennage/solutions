@@ -21,21 +21,18 @@ Once you've created your website, decided how you'll manage the website's lifecy
 
 Once your customers are using your site you will want to leverage the power of big data to analyze your customer's behavior on your site to optimize their experience and predict what features they want. Azure offers a set of powerful big data and machine learning tools that will enable you to do this and much more. Read about how to integrate Azure data analytics and machine learning tools in the "Integrate data analytics and machine learning into your site" node in the table of contents to the left. 
 
-## Next Steps
-
+## Solution Architecture: Multi-channel Digital marketing platform for SMB with social integration and analytics
 We've provided a complete sample digital marketing solution that includes code, deployment files, and application lifecycle management (DevOps) tools. You can either use this solution as it is or modify it to suit your needs. For more information, see *link*.
-
-# Solution Architecture: Multi-channel Digital marketing platform for SMB with social integration and analytics
 
 You can think about an architecture for your digital marketing solution in 2 ways. Either as a group of functional building blocks or as a set of services. 
 
-## Functional Building blocks
+### Functional Building blocks
 
 Any Digital marketing solution consists of a set of building blocks that come together to make a complete solution. Some are required and some are optional. The diagram below looks at your Digital marketing infrastructure with this lens.
 
 ![alt text](img/Functional-Area-Diagram.png "Functional Area Diagram")
 
-## Baseline Capabilities
+#### Baseline Capabilities
 Here is some starting out text before we get into a table
 
 | Functional Area | Description|
@@ -47,18 +44,18 @@ Here is some starting out text before we get into a table
 |Instrumentation| In ordo ensure that your marketing platform operates optimally it is important to instrument all aspects so that you can track any issues and quickly deploy resolutions.|
 |DevOps| In this age of cloud agility is more important than ever to have a development infrastructure to allow you to ship high quality software in an agile manner. A modern DevOps infrastructure allows you to manage your entire lifecycle. |
 
-## Additional Capabilities
+#### Additional Capabilities
 |Functional Area | Description |
 |----------------|:-----------:|
 |Analytics | 
 
-## Azure Service Alignment
+### Azure Service Alignment
 
 Any Digital marketing solution consists of a set of building blocks that come together to make a complete solution. Some are required and some are optional. The diagram below looks at your Digital marketing infrastructure with this lens.
 
 ![alt text](img/Service-Alignment-Diagram.png "Service Alignment Diagram")
 
-## Baseline Capabilities
+#### Baseline Capabilities
 Here is some starting out text before we get into a table
 
 | Functional Area | Service Alignment | Description|
@@ -71,7 +68,7 @@ Here is some starting out text before we get into a table
 |Instrumentation| | In ordo ensure that your marketing platform operates optimally it is important to instrument all aspects so that you can track any issues and quickly deploy resolutions.|
 |DevOps| | In this age of cloud agility is more important than ever to have a development infrastructure to allow you to ship high quality software in an agile manner. A modern DevOps infrastructure allows you to manage your entire lifecycle. |
 
-## Additional Capabilities
+#### Additional Capabilities
 |Functional Area | Description |
 |----------------|:-----------:|
 |Analytics | 
