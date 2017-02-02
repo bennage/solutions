@@ -6,7 +6,11 @@ Follows these instructions if you want to build and deploy to Azure from Visual 
 
 -   Active Visual Studio Team Services account
 
-## Get started
+## Deploy automatically
+
+Use the [VSTS Sample deployment tool](https://valwebeusdemo.azurewebsites.net/Account/Login?ReturnUrl=%2F)
+
+## Get started manually
 To deploy from Visual Studio Team Services (VSTS), you need to do the following:
 
 1.  Clone this repo.
