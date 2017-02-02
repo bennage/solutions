@@ -1,5 +1,5 @@
 # [Solutions: Digital Marketing](digital-marketing-landing-page.md)
-## Host your Digital Marketing Website
+## [Host your Digital Marketing Website](platform-selection.md)
 ### [Web application architectures for Azure App Service](/azure/architecture/app-service/basic-web-app?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Architectures for running Linux VM workloads in Azure](/azure/architecture/virtual-machines-linux/index?toc=/azure/solutions/digital-marketing/toc.json)
 ### [Architectures for running Windows VM workloads in Azure](/azure/architecture/virtual-machines-windows/index?toc=/azure/solutions/digital-marketing/toc.json)
